@@ -1,0 +1,6 @@
+I:\VISUAL\arreglos ejercicios\arreglos ejercicios\bin\Debug\arreglos ejercicios.exe.config
+I:\VISUAL\arreglos ejercicios\arreglos ejercicios\bin\Debug\arreglos ejercicios.exe
+I:\VISUAL\arreglos ejercicios\arreglos ejercicios\bin\Debug\arreglos ejercicios.pdb
+I:\VISUAL\arreglos ejercicios\arreglos ejercicios\obj\Debug\arreglos ejercicios.csprojResolveAssemblyReference.cache
+I:\VISUAL\arreglos ejercicios\arreglos ejercicios\obj\Debug\arreglos ejercicios.exe
+I:\VISUAL\arreglos ejercicios\arreglos ejercicios\obj\Debug\arreglos ejercicios.pdb
